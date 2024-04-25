@@ -9,7 +9,7 @@ public class FirefoxBrowserDemo1 {
 		
 				launchBrowser();
 				navigateURL();
-				closeApplication();
+				//closeApplication();
 
 			}
 			private static void launchBrowser()
